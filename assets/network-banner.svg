@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">F4r1k_1 — Network Engineering</title>
+  <desc id="description">Dark blue network topology banner with connected nodes and a network engineering headline</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081225"/>
+      <stop offset="58%" stop-color="#102945"/>
+      <stop offset="100%" stop-color="#0e4050"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#59a8ff"/>
+      <stop offset="100%" stop-color="#56e0c4"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+  <path d="M 815 0 C 920 85 1020 87 1200 25 L 1200 0 Z" fill="#59a8ff" opacity="0.06"/>
+  <path d="M 850 340 C 945 243 1060 251 1200 282 L 1200 340 Z" fill="#56e0c4" opacity="0.07"/>
+
+  <g fill="none" stroke="#77c8e8" stroke-opacity="0.4" stroke-width="2.5">
+    <path d="M 890 78 L 1012 57 L 1117 123 L 1080 226 L 947 254 L 859 179 Z"/>
+    <path d="M 890 78 L 1013 164 L 1117 123 M 859 179 L 1013 164 L 1080 226 M 1012 57 L 1013 164 L 947 254"/>
+  </g>
+  <g fill="#102945" stroke="#78d9dc" stroke-width="3">
+    <circle cx="890" cy="78" r="10"/><circle cx="1012" cy="57" r="10"/>
+    <circle cx="1117" cy="123" r="10"/><circle cx="1080" cy="226" r="10"/>
+    <circle cx="947" cy="254" r="10"/><circle cx="859" cy="179" r="10"/>
+  </g>
+  <circle cx="1013" cy="164" r="27" fill="#173d55" stroke="url(#accent)" stroke-width="4"/>
+  <circle cx="1013" cy="164" r="7" fill="#56e0c4"/>
+
+  <rect x="72" y="69" width="224" height="31" rx="15.5" fill="#59a8ff" fill-opacity="0.12" stroke="#59a8ff" stroke-opacity="0.35"/>
+  <text x="89" y="90" fill="#9ed4ff" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">NETWORK ENGINEERING</text>
+  <text x="72" y="190" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="750" letter-spacing="1">F4r1k_1</text>
+  <text x="75" y="241" fill="#c3d9e9" font-family="Segoe UI, Arial, sans-serif" font-size="22">Infrastructure  ·  Routing &amp; Switching  ·  Security</text>
+  <rect x="75" y="265" width="390" height="4" rx="2" fill="url(#accent)"/>
+  <text x="75" y="299" fill="#91b4c9" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="1.5">COMPUTER ENGINEERING · PSU</text>
+</svg>
